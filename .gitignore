@@ -1,0 +1,13 @@
+# Ignora i dataset
+AID/
+UCMerced_LandUse/
+
+# Ignora i file di dati pesanti e i modelli salvati
+*.npy
+*.pkl
+*.h5
+*.keras
+
+# Ignora cache di Python
+__pycache__/
+*.pyc
